@@ -5,6 +5,12 @@
       "lastName": "Plumb",
       "age": 30,
       "id": 1
+    },
+    {
+      "firstName": "James",
+      "lastName": "Plumb",
+      "age": 30,
+      "id": 2
     }
   ],
   "houses": []
